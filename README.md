@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchawla04&label=Profile%20views&color=0e75b6&style=flat" alt="devchawla04" /> </p>
 
-- 🔭 I’m currently working on **Chawla Banking app** <a href="https://chawla-bank-app.vercel.app/" target="_blank">🌐 Live Demo</a>
+- 🔭 I’m currently working on ** Banking app** <a href="https://chawla-bank-app.vercel.app/" target="_blank">🌐 Live Demo</a>
 
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **ReactJS,NextJS,JavaScript**
+- 💬 Ask me about **ReactJS, NextJS, JavaScript**
 
 - 📫 How to reach me **devchawla.04@gmail.com**
 
