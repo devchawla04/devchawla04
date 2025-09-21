@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchawla04&label=Profile%20views&color=0e75b6&style=flat" alt="devchawla04" /> </p>
 
-- 🔭 I’m currently working on ** Droply(DropBox Clone)** <a href="https://droply-alpha.vercel.app/" target="_blank">🌐 Live Demo</a>
+- 🔭 I’m currently learning ChaiCode Cohort
 
 
 - 🌱 I’m currently learning **NextJS**
