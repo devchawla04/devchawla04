@@ -8,7 +8,6 @@
 - 🔭 I’m currently learning ChaiCode Cohort
 
 
-
 - 💬 Ask me about **ReactJS, NextJS, JavaScript**
 
 - 📫 How to reach me **devchawla04@gmail.com**
