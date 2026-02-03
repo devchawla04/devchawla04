@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchawla04&label=Profile%20views&color=0e75b6&style=flat" alt="dev152004" /> </p>
 
-- 🔭 I’m currently watching ChaiCode Cohort
+- 🔭 I’m currently watching Harkirat 100xDev Bootcamp
 
 
 - 💬 Ask me about **ReactJS, NextJS, JavaScript**
 
-- 📫 How to reach me **dev15022004@gmail.com**
+- 📫 How to reach me **devchawla04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
